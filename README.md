@@ -1,4 +1,5 @@
-# dogtinder.github.io
+# Dog Tinder
+
 A simple webpage using bootstrap.
 
 
