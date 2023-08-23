@@ -3,4 +3,4 @@
 A simple webpage using bootstrap.
 
 
-The website is live at https://manasg1111.github.io/dogtinder
+The website is live at https://mana-sg.github.io/dogtinder
